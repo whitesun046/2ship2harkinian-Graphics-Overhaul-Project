@@ -1,6 +1,26 @@
 [comment]: <> (Todo: Make Light Mode Image)
 [comment]: <> (Todo: Make Dark Mode Image)
 
+
+# 2 Ship 2 Harkinian - Graphics Overhaul Project v1.0 
+An unofficial, fan-made graphics overhaul project for The Legend of Zelda: Majora's Mask focused on enhancing the game's visuals while preserving its original artistic style.
+This project is an independent, unofficial modification and is not affiliated with the original 2Ship development team or Nintendo.
+
+Improvements
+
+Enhanced Lighting: Improved global illumination, ambient lighting, and more natural light sources.
+
+Dynamic Shadows: Real-time shadows with improved lighting interactions and day/night transitions.
+
+Improved Water Rendering: Enhanced water visuals, transparency, and surface effects.
+
+Enhanced Reflections: More realistic and subtle reflections on water, metallic surfaces, and other materials.
+
+Improved Tree Models: Replaced selected low-poly tree models with higher-quality alternatives.
+
+## Screenshots
+
+
 # 2 Ship 2 Harkinian
 
 ## Discord
