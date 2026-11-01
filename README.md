@@ -3,7 +3,7 @@
 
 
 # 2 Ship 2 Harkinian - Graphics Overhaul Project v1.0 
-An unofficial, fan-made graphics overhaul project for The Legend of Zelda: Majora's Mask focused on enhancing the game's visuals while preserving its original artistic style.
+An unofficial, fan-made graphics overhaul project focused on enhancing the game's visuals while preserving its original artistic style.
 This project is an independent, unofficial modification and is not affiliated with the original 2Ship development team or Nintendo.
 
 Improvements
