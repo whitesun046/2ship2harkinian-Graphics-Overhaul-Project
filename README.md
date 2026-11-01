@@ -20,6 +20,14 @@ Improved Tree Models: Replaced selected low-poly tree models with higher-quality
 
 ## Screenshots
 
+### Enhanced Lighting
+![1](1.png)
+
+### Dynamic Shadows
+![2](2.png)
+
+### Improved Water and Reflections
+![3](3.png)
 
 # 2 Ship 2 Harkinian
 
