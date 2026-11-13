@@ -2,11 +2,15 @@
 [comment]: <> (Todo: Make Dark Mode Image)
 
 
-# 2 Ship 2 Harkinian - Graphics Overhaul Project v1.0 
+# 2 Ship 2 Harkinian - Graphics Overhaul Project v1.5
 An unofficial, fan-made graphics overhaul project focused on enhancing the game's visuals while preserving its original artistic style.
 This project is an independent, unofficial modification and is not affiliated with the original 2Ship development team or Nintendo.
 
 Improvements
+
+Mouse camera Mod
+
+3D Grottos
 
 Enhanced Lighting: Improved global illumination, ambient lighting, and more natural light sources.
 
